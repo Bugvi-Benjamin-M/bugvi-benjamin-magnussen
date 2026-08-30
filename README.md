@@ -12,8 +12,6 @@ python3 -m http.server 8000
 
 ## TODO
 
-- Experience: "Software Engineer" entry needs organization + years
-- Education: fill in real degrees (placeholders currently)
 - Publications: fill in real papers (placeholders currently)
 - Music: intro text, photos (`images/music/performance-1.jpg` etc.), listen link
 
