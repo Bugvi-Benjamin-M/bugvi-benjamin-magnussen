@@ -14,8 +14,8 @@ No build step, no dependencies — just `index.html`, `styles.css`, and
 Everything below is a placeholder (marked in *italics* on the page or with
 `#`/`example.com` links in the HTML) until you swap it in:
 
-- **About bio** — currently placeholder text (tagline and hero intro are filled in).
-- **Experience timeline** — three placeholder entries; add/remove
+- **Experience timeline** — TORM entry is real; one placeholder entry remains
+  (prior "Software Engineer" role — needs organization and years); add/remove
   `<li class="timeline-item">` blocks in the `#experience` section as needed.
 - **Education** — three placeholder entries (you mentioned multiple degrees);
   add/remove `<li class="edu-item">` blocks in the `#education` section with
