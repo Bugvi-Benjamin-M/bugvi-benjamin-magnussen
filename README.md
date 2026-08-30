@@ -14,9 +14,7 @@ No build step, no dependencies — just `index.html`, `styles.css`, and
 Everything below is a placeholder (marked in *italics* on the page or with
 `#`/`example.com` links in the HTML) until you swap it in:
 
-- **Tagline** (`index.html`, `.tagline`) — currently "Data scientist &
-  researcher. Trained musician." as a starting suggestion. Change any time.
-- **Hero one-liner** and **About bio** — currently placeholder text.
+- **About bio** — currently placeholder text (tagline and hero intro are filled in).
 - **Experience timeline** — three placeholder entries; add/remove
   `<li class="timeline-item">` blocks in the `#experience` section as needed.
 - **Education** — three placeholder entries (you mentioned multiple degrees);
@@ -27,8 +25,6 @@ Everything below is a placeholder (marked in *italics* on the page or with
 - **Music section** — intro text, plus three placeholder photos expected at
   `images/music/performance-1.jpg`, `-2.jpg`, `-3.jpg` (missing ones just
   disappear rather than showing broken images), and a "Listen" link.
-- **Contact links** — currently `you@example.com`, `linkedin.com/in/your-handle`,
-  a Scholar placeholder, and `github.com/your-handle`. Update the `href`s.
 
 ## Profile photo
 
