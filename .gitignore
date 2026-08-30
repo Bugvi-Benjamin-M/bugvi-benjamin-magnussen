@@ -1,0 +1,5 @@
+.DS_Store
+
+# Full-resolution source photos — not used by the site (see resources/README
+# or the site README for the cropped, web-sized versions that are tracked).
+resources/
