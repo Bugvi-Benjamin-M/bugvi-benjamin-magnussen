@@ -296,9 +296,14 @@ html[data-theme="light"] .avatar-light { display: block; }
   .music-photo { width: 180px; }
 }
 
-.music-links { display: flex; gap: 0.75rem; flex-wrap: wrap; }
+.music-links { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 1.75rem; }
 
 /* ---------- Contact ---------- */
+.contact-location {
+  color: var(--color-text-muted);
+  margin: 0 0 1.25rem;
+}
+
 .contact-links {
   display: flex;
   gap: 1.5rem;
