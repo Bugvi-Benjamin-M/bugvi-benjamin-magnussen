@@ -276,6 +276,26 @@ html[data-theme="light"] .avatar-light { display: block; }
 .pub-abstract { color: var(--color-text-muted); margin: 0; }
 
 /* ---------- Music ---------- */
+.music-intro {
+  display: flex;
+  gap: 1.75rem;
+  align-items: flex-start;
+}
+
+.music-photo {
+  width: 160px;
+  flex-shrink: 0;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--color-border);
+}
+
+@media (max-width: 620px) {
+  .music-intro { flex-direction: column; align-items: center; text-align: center; }
+  .music-photo { width: 180px; }
+}
+
 .music-gallery {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
