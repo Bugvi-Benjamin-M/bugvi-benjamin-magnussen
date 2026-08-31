@@ -10,11 +10,6 @@ just `index.html`, `styles.css`, `script.js`.
 python3 -m http.server 8000
 ```
 
-## TODO
-
-- Publications: fill in real papers (placeholders currently)
-- Music: intro text, photos (`images/music/performance-1.jpg` etc.), listen link
-
 ## Notes
 
 - `profile-bw.jpg` / `profile-color.jpg` (repo root) are the cropped, web-sized
