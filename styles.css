@@ -296,24 +296,7 @@ html[data-theme="light"] .avatar-light { display: block; }
   .music-photo { width: 180px; }
 }
 
-.music-gallery {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 0.75rem;
-  margin: 1.5rem 0;
-}
-.music-gallery img {
-  border-radius: var(--radius);
-  aspect-ratio: 4/3;
-  object-fit: cover;
-  border: 1px solid var(--color-border);
-}
-
 .music-links { display: flex; gap: 0.75rem; flex-wrap: wrap; }
-
-@media (max-width: 560px) {
-  .music-gallery { grid-template-columns: 1fr; }
-}
 
 /* ---------- Contact ---------- */
 .contact-links {
